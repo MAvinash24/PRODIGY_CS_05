@@ -49,9 +49,9 @@ To run this application, you need the following:
 ### Installation
 
 1.  Clone the repository:
-    ```bash
-    git clone https://github.com/MAvinash24/PRODIGY_CS_05.git
-    ```
+   ```bash
+   git clone https://github.com/MAvinash24/PRODIGY_CS_05.git
+   ```
     
 2.  Navigate to project directory:
    ```bash
