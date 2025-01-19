@@ -6,6 +6,8 @@
 
 The **Network Packet Analyzer Tool** is a graphical user interface (GUI) application built using **Tkinter** and **Scapy**. It allows users to capture and analyze network packets in real-time. The application displays detailed information about each captured packet, including source and destination IP/MAC addresses, protocol (TCP, UDP, ICMP), and payload details. It provides control buttons to start, stop, pause, and resume packet sniffing.
 
+---
+
 ### Features
 
 - **Start Sniffing**: Begin capturing network packets.
@@ -21,11 +23,15 @@ The **Network Packet Analyzer Tool** is a graphical user interface (GUI) applica
   - Packet Size and Timestamp
 - **Packet Count**: Display the total number of packets captured during the session.
 
+---
+
 ### How to Use
 
 1. **Start Sniffing**: Click the "Start Sniffing" button to begin capturing network packets.
 2. **Pause Sniffing**: Click the "Pause Sniffing" button to pause the packet capture. You can resume sniffing using the "Resume Sniffing" button.
 3. **Stop Sniffing**: Click the "Stop Sniffing" button to stop the packet capture and display the status as "Sniffing Stopped."
+
+---
 
 ### Requirements
 
@@ -37,6 +43,8 @@ To run this application, you need the following:
     ```bash
     pip install scapy
     ```   
+
+---
 
 ### Installation
 
@@ -54,6 +62,8 @@ To run this application, you need the following:
    ```bash
    python packet_analyzer.py
    ```
+
+---
 
 ### Screenshot of GUI
    
