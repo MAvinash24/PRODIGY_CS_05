@@ -1,14 +1,12 @@
-# PRODIGY_CS_05
+# Network Packet Analyzer
 
-## Network Packet Analyzer
-
-### Description
+## Description
 
 The **Network Packet Analyzer Tool** is a graphical user interface (GUI) application built using **Tkinter** and **Scapy**. It allows users to capture and analyze network packets in real-time. The application displays detailed information about each captured packet, including source and destination IP/MAC addresses, protocol (TCP, UDP, ICMP), and payload details. It provides control buttons to start, stop, pause, and resume packet sniffing.
 
 ---
 
-### Features
+## Features
 
 - **Start Sniffing**: Begin capturing network packets.
 - **Stop Sniffing**: Stop packet capturing and display the message "Sniffing Stopped."
@@ -25,7 +23,7 @@ The **Network Packet Analyzer Tool** is a graphical user interface (GUI) applica
 
 ---
 
-### How to Use
+## How to Use
 
 1. **Start Sniffing**: Click the "Start Sniffing" button to begin capturing network packets.
 2. **Pause Sniffing**: Click the "Pause Sniffing" button to pause the packet capture. You can resume sniffing using the "Resume Sniffing" button.
@@ -33,7 +31,7 @@ The **Network Packet Analyzer Tool** is a graphical user interface (GUI) applica
 
 ---
 
-### Requirements
+## Requirements
 
 To run this application, you need the following:
 
@@ -46,7 +44,7 @@ To run this application, you need the following:
 
 ---
 
-### Installation
+## Installation
 
 1.  Clone the repository:
    ```bash
@@ -65,6 +63,6 @@ To run this application, you need the following:
 
 ---
 
-### Screenshot of GUI
+## Screenshot of GUI
    
 ![Network Packet Analyzer GUI](https://github.com/user-attachments/assets/7bdb1ab7-1648-4a38-ab9f-63f71ca04ba1)
